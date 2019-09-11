@@ -10,6 +10,9 @@ import Footer from 'components/Footer';
 import projects from 'content/projects';
 import statements from 'content/about-me';
 import Education from "../components/Education";
+import WorkExperience from "../components/WorkExperience";
+
+
 
 export default class Home extends React.PureComponent {
   render() {
@@ -20,10 +23,10 @@ export default class Home extends React.PureComponent {
         <About statements={statements} />
         <div id="education"></div>
         <Education statements={statements} />
-        <h2 id="projects" className="section-title">
-          Projects
-        </h2>
-        <Projects projects={projects} />
+        <div id="work-experience"/>
+        <WorkExperience statements={statements}/>
+          <Projects projects={projects} />
+
         <div className="background" />
         <h2 id="contact" className="section-title">
           Contact me!
