@@ -1,5 +1,7 @@
 import React from 'react';
 import FontAwesomeIcon from '@fortawesome/react-fontawesome';
+import Typewriter from 'components/Typewriter';
+
 
 class ProjectSkill extends React.PureComponent {
   render() {
@@ -68,8 +70,9 @@ class Projects extends React.PureComponent {
   render() {
     const { projects } = this.props;
     return (
-      <div className="projects-container">
-        {projects.map(proj => (
+        <div className="projects-container">
+        <Typewriter id="education" className="projects-title" text="Projects"/>
+            {projects.map(proj => (
           <ProjectCard
             title={proj.title}
             description={proj.description}
