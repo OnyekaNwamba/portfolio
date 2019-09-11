@@ -9,6 +9,7 @@ import Footer from 'components/Footer';
 
 import projects from 'content/projects';
 import statements from 'content/about-me';
+import Education from "../components/Education";
 
 export default class Home extends React.PureComponent {
   render() {
@@ -17,6 +18,8 @@ export default class Home extends React.PureComponent {
         <Navbar />
         <Hero />
         <About statements={statements} />
+        <div id="education"></div>
+        <Education statements={statements} />
         <h2 id="projects" className="section-title">
           Projects
         </h2>
