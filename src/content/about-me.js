@@ -25,6 +25,6 @@ export default [
   {
     input: 'Onyeka.skills',
     return:
-      '["Java", "Python", "Git", "HTML", "CSS", "React", "Php"]',
+      '["Java", "Python", "Git", "HTML", "CSS", "Php", "React.js", "Node.js" ]',
   },
 ];
