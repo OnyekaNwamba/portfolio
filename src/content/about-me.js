@@ -6,7 +6,7 @@ export default [
   {
     input: 'Onyeka.contactInfo',
     return:
-      '["<a href="mailto:onynwamba1@gmail.com">onynwamba@gmail.com</a>", "<a rel="noopener" href="https://www.linkedin.com/in/onyekanwamba>">LinkedIn</a>", "<a rel="noopener" href="https://github.com/OnyekaNwamba">github</a>"]',
+      '["<a href="mailto:onynwamba1@gmail.com">onynwamba@gmail.com</a>", "<a rel="noopener" href="https://www.linkedin.com/in/onyekanwamba">LinkedIn</a>", "<a rel="noopener" href="https://github.com/OnyekaNwamba">github</a>"]',
   },
   {
     input: 'Onyeka.resume',
