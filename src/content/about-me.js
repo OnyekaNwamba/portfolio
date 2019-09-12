@@ -6,12 +6,12 @@ export default [
   {
     input: 'Onyeka.contactInfo',
     return:
-      '["<a href="mailto:onynwamba1@gmail.com">onynwamba@gmail.com</a>", "<a rel="noopener" href="#">LinkedIn</a>", "<a rel="noopener" href="https://github.com/OnyekaNwamba">github</a>"]',
+      '["<a href="mailto:onynwamba1@gmail.com">onynwamba@gmail.com</a>", "<a rel="noopener" href="https://www.linkedin.com/in/onyekanwamba>LinkedIn</a>", "<a rel="noopener" href="https://github.com/OnyekaNwamba">github</a>"]',
   },
   {
     input: 'Onyeka.resume',
     return:
-      '"<a rel="noopener" href="/CV.pdf" target="_blank">OnyekaNwamba.pdf</a>"',
+      '"<a rel="noopener" href="CV.pdf" target="_blank">OnyekaNwamba.pdf</a>"',
   },
   {
     input: 'Onyeka.interests',
