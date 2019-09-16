@@ -14,18 +14,6 @@ class WorkExperience extends React.PureComponent {
                 <Typewriter id="education" className="we-title" text="Work Experience & Internships" />
                 <div className="we-description">
                     <div className="inner">
-                        <div className="gocode">
-                            <a target="_blank" href="http://gocode.academy"><img className="icon" src="https://cdn.evbuc.com/images/44271026/195426384363/2/logo.jpg"/></a><b>GoCode Academy</b>
-                            <span className="right"><i>November 2018 - Current</i></span><br/><b>Computer Science Tutor</b>
-                            <span className="right"><i>London, UK</i></span><br/><br/>
-                            <ul>
-                                <span>Responsibilities:</span><br />
-                                <li>Tutoring children between 8 - 18 basic computer science theory and programming languages such as Python,
-                                    HTML, CSS, Scratch and JavaScript</li>
-                                <li>Creating resources for students to learn</li>
-                                <li>Leading lessons as one of the leading teachers</li>
-                            </ul>
-                        </div>
 
                         <div className="gocode">
                             <a target="_blank" href="http://qmul.ac.uk"><img className="icon" src="https://pbs.twimg.com/profile_images/1514120070/QM_logo_for_social_media_400x400.JPG"/></a><b>Queen Mary, University of London</b>
@@ -39,6 +27,19 @@ class WorkExperience extends React.PureComponent {
                                 <li>Assist in marking courseworks and in-class assessments as needed.</li>
                                 <li>This role required greate o	technical knowledge, time-keeping and professionalism, good communication skills  and the ability to work as part of a (teaching) team
                                 </li>
+                            </ul>
+                        </div>
+
+                        <div className="gocode">
+                            <a target="_blank" href="http://gocode.academy"><img className="icon" src="https://cdn.evbuc.com/images/44271026/195426384363/2/logo.jpg"/></a><b>GoCode Academy</b>
+                            <span className="right"><i>November 2018 - September 2019</i></span><br/><b>Computer Science Tutor</b>
+                            <span className="right"><i>London, UK</i></span><br/><br/>
+                            <ul>
+                                <span>Responsibilities:</span><br />
+                                <li>Tutoring children between 8 - 18 basic computer science theory and programming languages such as Python,
+                                    HTML, CSS, Scratch and JavaScript</li>
+                                <li>Creating resources for students to learn</li>
+                                <li>Leading lessons as one of the leading teachers</li>
                             </ul>
                         </div>
 
