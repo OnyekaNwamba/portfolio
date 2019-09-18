@@ -1,84 +1,49 @@
 import travlr from 'images/travlr.jpg';
-import stockmarketchart from 'images/stockmarketchart.jpg';
-import wakeyalarmclock from 'images/wakeyalarmclock.jpg';
-import wakeybackgrounds from 'images/wakeybackgrounds.png';
-import calculator from 'images/calculator.jpg';
+import snake from 'images/snake.png';
 import portfolio from 'images/portfolio.png';
-import tomsmetal from 'images/tomsmetal.jpg';
+import Stormy from 'images/Stormy.png';
+import pong from 'images/pong.png';
 
 // image can be any size. just make sure it is close to a 1:1 ratio - a square.
 
 export default [
   {
-    title: 'Travlr',
+    title: 'Foodiez',
     description:
-      'Travel smarter by saving the places you want to go. This project was an assignment given for an interview. The requirements were to build a web-app that calls the Google Places API. It must include a map with pins and a list of locations, with some interactivity between the two.',
-    skills: ['HTML5', 'CSS3', 'Sass', 'JavaScript', 'ES6', 'ReactJS', 'Redux'],
+      'Make finding a place to eat easier with this simple app, swipe right if you like it, swip left if you dont. This is an Android application that uses the Google Places API and Yelp API to find restaurants near you and their information, with also help of Firebase to Autheticate and storeusers. \n Currently in the works so preview not availabe ',
+    skills: ['Android', 'Java', 'GoogleAPI', 'YelpAPI', 'Firebase'],
     image: travlr,
     links: {
-      github: 'https://github.com/vai0/travlr',
-      preview: 'https://travlr.onyekanwamba.me/',
+      //github: 'https://github.com/vai0/travlr',
+      preview: '#',
     },
   },
+
   {
-    title: 'Chart the Stock Market',
+    title: 'One Day Builds Series',
     description:
-      'This project is based off this <a href="https://www.freecodecamp.com/challenges/chart-the-stock-market">challenge</a>. Wrangled with styling HighCharts and learned the use of Promises. Data is from the <a href="https://developer.tradier.com/documentation">Tradier API</a>. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!',
-    skills: ['HTML5', 'CSS3', 'Sass', 'JavaScript', 'ES6', 'ReactJS'],
-    image: stockmarketchart,
+        'A series of mini-projects created in one day in various languages such as Javascript, HTML, Python etc. Click on Live Demo to see list of project, or clikc on Github to find the repositories of my One Day Builds'
+        /*'Two paddles, a moving ball and a simple piece of artificial intelligence (AI) to play against. This is the simple yet classic game of Pong clone done in Javascript. Made as part of my "One Day Builds Series"'*/,
+    skills: ['HTML5', 'CSS3', 'Javascript', 'ES6'],
+    image: pong,
     links: {
-      github: 'https://github.com/vai0/stockmarketchart',
-      preview: 'https://stock.onyekanwamba.me/',
+        github: 'https://github.com/OnyekaNwamba/',
+        preview: 'https://onyekanwamba.github.io/One-Day-Builds/',
     },
   },
   {
-    title: 'Wakey Alarm Clock',
+    title: 'Weather App',
     description:
-      'My first major app built with ReactJS and it was a tremendous learning experience. This project was created for a good friend - check out her <a href="http://www.xiaotongyuchi.com/wakeyalarm">mock-up</a>! Polymer components were taken directly from Google spec to ensure smooth animations on mobile (this was before Material Components existed).',
-    skills: [
-      'HTML5',
-      'CSS3',
-      'Sass',
-      'JavaScript',
-      'ReactJS',
-      'Polymer',
-      'Material Design',
+      'My first ever app, created for android built in Java. It was a tremendous learning experience and built foundation for my Android Programming knowledge',
+    skills: ['Android', 'Java', 'Material Design',
     ],
-    image: wakeyalarmclock,
+    image: Stormy,
     links: {
-      github: 'https://github.com/vai0/alarmclock',
-      preview: 'https://alarmclock.onyekanwamba.me/',
+      github: 'https://github.com/OnyekaNwamba/Weather-App',
+      preview: 'https://onyekanwamba.github.io/weather-preview',
     },
   },
-  {
-    title: 'Wakey Weather Backgrounds',
-    description:
-      'Animated backgrounds for when the alarm is triggered in the <a href="https://onyekanwamba.me/alarmclock/">Wakey Alarm Clock</a> app. CSS animations and a bit of JavaScript for the snow and rain. No external libraries.',
-    skills: ['HTML5', 'CSS3', 'Sass', 'JavaScript'],
-    image: wakeybackgrounds,
-    links: {
-      github: 'https://github.com/vai0/weather-animations',
-      preview: 'https://weather-anim.onyekanwamba.me/',
-    },
-  },
-  {
-    title: 'Google Calculator',
-    description:
-      'Applied techniques learned from <a href="https://watchandcode.com/p/practical-javascript">Practical Javascript</a> - writing requirements, iterating, and structuring app as an MVC. This really helped me build a much better foundation in JavaScript for web development. Aside from the Material Components library for the ripples, no frameworks were used. Design is based off the original <a href="https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en">Google Calculator on Android</a>.',
-    skills: [
-      'HTML5',
-      'CSS3',
-      'Sass',
-      'JavaScript',
-      'ES6',
-      'Material Components',
-    ],
-    image: calculator,
-    links: {
-      github: 'https://github.com/vai0/material_calculator',
-      preview: 'https://calc.onyekanwamba.me/',
-    },
-  },
+
   {
     title: 'Portfolio',
     description:
@@ -86,19 +51,8 @@ export default [
     skills: ['HTML5', 'CSS3', 'Sass', 'JavaScript', 'ReactJS'],
     image: portfolio,
     links: {
-      github: 'https://github.com/vai0/portfolio',
-      preview: 'https://www.onyekanwamba.me/',
-    },
-  },
-  {
-    title: "Tom's Metal Site",
-    description:
-      'A revamped version of the website of the company at my first job. You can see the original site <a href="http://www.tomsmetal.com/">here</a>. The site supports mobile, tablet, and desktop sizes. Media queries only - no external libraries or JavaScript.',
-    skills: ['HTML5', 'CSS3'],
-    image: tomsmetal,
-    links: {
-      github: 'https://github.com/vai0/tomsmetal_site',
-      preview: 'https://tomsmetal.onyekanwamba.me/',
+      github: 'https://github.com/OnyekaNwamba/onyeka.nwamba.gitgub.io',
+      preview: '#',
     },
   },
 ];
