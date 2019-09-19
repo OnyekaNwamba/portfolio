@@ -11,7 +11,7 @@ export default [
   {
     input: 'Onyeka.resume',
     return:
-      '"<a rel="noopener" href="src/content/CV.pdf" target="_blank">OnyekaNwamba.pdf</a>"',
+      '"<a rel="noopener" href="static/CV.pdf" target="_blank">OnyekaNwamba.pdf</a>"',
   },
   {
     input: 'Onyeka.interests',
