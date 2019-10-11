@@ -25,6 +25,7 @@ export default class Home extends React.PureComponent {
         <Education statements={statements} />
         <div id="work-experience"/>
         <WorkExperience statements={statements}/>
+          <div id="projects"/>
           <Projects projects={projects} />
 
         <div className="background" />
