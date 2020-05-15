@@ -12,6 +12,10 @@ class Navbar extends React.PureComponent {
         document
           .getElementById('contact')
           .scrollIntoView({ behavior: 'smooth' });
+      } else if (e.target.innerText === 'Education') {
+          document
+              .getElementById('education')
+              .scrollIntoView({ behavior: 'smooth' })
       }
     });
   }
@@ -20,8 +24,12 @@ class Navbar extends React.PureComponent {
     return (
       <div className="navbar-container">
         <nav className="navbar" ref="navbar">
+          <Scrollchor to="#about-me">About Me</Scrollchor>
+          <Scrollchor to="#education">Education</Scrollchor>
+          <Scrollchor to="#work-experience">Work Experience </Scrollchor>
           <Scrollchor to="#projects">Projects</Scrollchor>
           <Scrollchor to="#contact">Contact</Scrollchor>
+
         </nav>
       </div>
     );

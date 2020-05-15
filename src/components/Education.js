@@ -3,7 +3,7 @@ import Typewriter from 'components/Typewriter';
 import Scrollchor from 'react-scrollchor';
 
 
-class Hero extends React.PureComponent {
+class Education extends React.PureComponent {
     constructor(props) {
         super(props);
     }
@@ -23,12 +23,12 @@ class Hero extends React.PureComponent {
                             <tr>
                                 <td>{"2018 - Current"}</td>
                                 <td>{"BSc Computer Science - Queen Mary, University of London"}</td>
-                                <td>{"Expected Graduation: 2022"}</td>
+                                <td>{"Prediction: 1st Class, Avg:85%"}</td>
                             </tr>
                             <tr>
                                 <td>{"2016 - 2018"}</td>
                                 <td>{"St Dominic's Sixth Form College"}</td>
-                                <td>{"AAB"}</td>
+                                <td>{"AAA"}</td>
                             </tr>
                             <tr>
                                 <td>{"2012 - 2016"}</td>
@@ -43,4 +43,4 @@ class Hero extends React.PureComponent {
     }
 }
 
-export default Hero;
+export default Education;

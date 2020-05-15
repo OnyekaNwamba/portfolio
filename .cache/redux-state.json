@@ -585,8 +585,20 @@
             "version": "0.0.20"
           },
           {
+            "name": "react-fontawesome",
+            "version": "^1.6.1"
+          },
+          {
             "name": "react-scrollchor",
             "version": "5.1.0"
+          },
+          {
+            "name": "react-super-responsive-table",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "react-table",
+            "version": "^6.10.3"
           }
         ],
         "devDependencies": [
@@ -657,12 +669,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-09-05T10:49:38.009Z",
+      "buildTime": "2020-05-15T14:02:54.986Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "92dc66b25a790365c0f581942e0373b8",
+        "contentDigest": "83d8c5dd12c53ae2f3fa8fb4220c828b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -683,7 +695,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "805b64449496d0037374d7d9218c6fa6",
+        "contentDigest": "e185de417e98721ea153fd3b03354cd5",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -704,7 +716,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5f8fd6587ce40774aba118a2573d6113",
+        "contentDigest": "9f32f54e8360c9f69101e1e47e1da26b",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -725,7 +737,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "37a44a4f23afd14e2e7ce2b214a70bc4",
+        "contentDigest": "1d4ab0a0e12cc376d24546b25309f5e4",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -733,7 +745,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "60347461a971b0ea5ea585319e127308"
+    "PLUGINS_HASH": "567ca22c17aa8e35e699e9be2b2bc29d"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -741,6 +753,10 @@
         "LAYOUT___index"
       ]
     },
-    "connections": {}
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
   }
 }

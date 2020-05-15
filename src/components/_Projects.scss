@@ -1,5 +1,54 @@
 .projects-container {
   margin: 0 auto;
+  margin-top: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-bottom: 80px;
+
+  a {
+    font-weight: bold;
+  }
+
+  @include mobile {
+    margin-top: 15vh;
+  }
+
+  .projects-title {
+    font-family: 'Monaco', Consolas, 'Lucida Console', monospace;
+    font-size: 2.5em;
+    color: $purple;
+    margin-bottom: 80px;
+
+    span {
+      background-color: rgba($purple, 0.65);
+      animation: caret 1s steps(1) infinite;
+    }
+
+    &:before {
+      content: '>\a0';
+    }
+
+    @include mobile {
+      font-size: 2.3em;
+    }
+
+    span {
+      background-color: rgba($purple, 0.65);
+      animation: caret 1s steps(1) infinite;
+    }
+
+    @keyframes caret {
+      50% {
+        background-color: transparent;
+      }
+    }
+  }
+}
+
+
+.projects-container {
+  margin: 0 auto;
   font-family: 'Camphor', Open Sans, Segoe UI, sans-serif;
 
   .project-card {
@@ -135,3 +184,4 @@
     }
   }
 }
+
