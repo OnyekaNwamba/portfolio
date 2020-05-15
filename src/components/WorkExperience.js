@@ -16,8 +16,26 @@ class WorkExperience extends React.PureComponent {
                     <div className="inner">
 
                         <div className="gocode">
-                            <a target="_blank" href="http://qmul.ac.uk"><img className="icon" src="https://pbs.twimg.com/profile_images/1514120070/QM_logo_for_social_media_400x400.JPG"/></a><b>Queen Mary, University of London</b>
-                            <span className="right"><i>September 2019 - Current</i></span><br/><b>Demonstrator</b>
+                            <a target="_blank" href="http://amazon.co.uk"><img className="icon" src="https://media-exp1.licdn.com/dms/image/C560BAQFdwVGpSOHmgw/company-logo_200_200/0?e=2159024400&v=beta&t=r6Y4R9o8Br9jZ7CY3Jaz58I8WbObB7nqpFWil-cqxGs"/></a><b>Amazon</b>
+                            <span className="right"><i>June 2020 - Current</i></span><br/><b>Software Development Engineer Placement</b>
+                            <span className="right"><i>London, UK</i></span><br/><br/>
+                            <ul>
+                                {/*
+                                <span>Responsibilities:</span><br />
+                                <li>Supporting students in difficulties encountered with the Computer Science course material presented</li>
+                                <li>Supporting students in completing laboratory work and formative exercises</li>
+                                <li>Provide feedback on individual student’s work as requested</li>
+                                <li>Assist in marking courseworks and in-class assessments as needed.</li>
+                                <li>This role required great technical knowledge, time-keeping and professionalism, good communication skills  and the ability to work as part of a (teaching) team
+                                </li>
+
+                                 */}
+                            </ul>
+                        </div>
+
+                        <div className="gocode">
+                            <a target="_blank" href="http://qmul.ac.uk"><img className="icon" src="https://pbs.twimg.com/profile_images/1893748873/CrownLogo_400x400.jpg"/></a><b>Queen Mary, University of London</b>
+                            <span className="right"><i>September 2019 - June 2019</i></span><br/><b>Demonstrator</b>
                             <span className="right"><i>London, UK</i></span><br/><br/>
                             <ul>
                                 <span>Responsibilities:</span><br />
@@ -25,10 +43,11 @@ class WorkExperience extends React.PureComponent {
                                 <li>Supporting students in completing laboratory work and formative exercises</li>
                                 <li>Provide feedback on individual student’s work as requested</li>
                                 <li>Assist in marking courseworks and in-class assessments as needed.</li>
-                                <li>This role required greate o	technical knowledge, time-keeping and professionalism, good communication skills  and the ability to work as part of a (teaching) team
+                                <li>This role required great technical knowledge, time-keeping and professionalism, good communication skills  and the ability to work as part of a (teaching) team
                                 </li>
                             </ul>
                         </div>
+
 
                         <div className="gocode">
                             <a target="_blank" href="http://gocode.academy"><img className="icon" src="https://cdn.evbuc.com/images/44271026/195426384363/2/logo.jpg"/></a><b>GoCode Academy</b>
