@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/onyeka/Documents/me/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/onyeka/Documents/me/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1c945714e29aa7e7ee6c525a5878b914",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -595,20 +585,8 @@
             "version": "0.0.20"
           },
           {
-            "name": "react-fontawesome",
-            "version": "^1.6.1"
-          },
-          {
             "name": "react-scrollchor",
             "version": "5.1.0"
-          },
-          {
-            "name": "react-super-responsive-table",
-            "version": "^5.0.0"
-          },
-          {
-            "name": "react-table",
-            "version": "^6.10.3"
           }
         ],
         "devDependencies": [
@@ -677,16 +655,14 @@
       "siteMetadata": {
         "title": "Onyeka's Portfolio"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2020-07-25T22:26:50.133Z",
+      "buildTime": "2020-07-25T22:42:18.223Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "69df941408e36a98f72c6249a5cfa1ab",
+        "contentDigest": "29d71eecc0108add009c28a7743a3568",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -707,7 +683,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "989b13aa6544f16f4a76c1b918e3bef5",
+        "contentDigest": "bf628b4dc7bb1433c49259a21549c126",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -728,7 +704,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5b27dda2843939728e8311e27ae947ea",
+        "contentDigest": "aff547619b0d3fed68f75228868a1898",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -749,7 +725,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aa380d4467bb6bbd7338eff16844a6e4",
+        "contentDigest": "94fabee67624c5969516c378b45694b8",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -757,7 +733,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "567ca22c17aa8e35e699e9be2b2bc29d"
+    "PLUGINS_HASH": "60347461a971b0ea5ea585319e127308"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -765,8 +741,6 @@
         "LAYOUT___index"
       ]
     },
-    "connections": {
-      "SitePage": []
-    }
+    "connections": {}
   }
 }

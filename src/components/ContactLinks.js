@@ -1,5 +1,4 @@
 import React from 'react';
-import github from 'images/github-icon.png';
 
 class ContactLinks extends React.PureComponent {
   render() {
