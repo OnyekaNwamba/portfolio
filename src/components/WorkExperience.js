@@ -20,16 +20,12 @@ class WorkExperience extends React.PureComponent {
                             <span className="right"><i>June 2020 - Current</i></span><br/><b>Software Development Engineer Placement</b>
                             <span className="right"><i>London, UK</i></span><br/><br/>
                             <ul>
-                                {/*
                                 <span>Responsibilities:</span><br />
-                                <li>Supporting students in difficulties encountered with the Computer Science course material presented</li>
-                                <li>Supporting students in completing laboratory work and formative exercises</li>
-                                <li>Provide feedback on individual student’s work as requested</li>
-                                <li>Assist in marking courseworks and in-class assessments as needed.</li>
-                                <li>This role required great technical knowledge, time-keeping and professionalism, good communication skills  and the ability to work as part of a (teaching) team
+                                <li>Full Stack Developer</li>
+                                <li>Designed, developed and lead project to ensure that all of Prime Video tools and services met requirement ahead of launch</li>
+                                <li>Consulting with clients and analyzing their needs</li>
+                                <li>Testing applications</li>
                                 </li>
-
-                                 */}
                             </ul>
                         </div>
 
