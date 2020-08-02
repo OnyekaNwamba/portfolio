@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="279ddf37-68f6-441c-9562-d05b54d44b4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/json/dev-404-page.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux-state.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux-state.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-e8b0c5cc3e61e8302b0b.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/app-e8b0c5cc3e61e8302b0b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-e8b0c5cc3e61e8302b0b.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/app-e8b0c5cc3e61e8302b0b.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/chunk-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/chunk-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/commons-eef92a68af65d2662677.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/commons-eef92a68af65d2662677.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/commons-eef92a68af65d2662677.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/commons-eef92a68af65d2662677.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-layouts-index-js-6f911aeeb133777da8e4.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/component---src-layouts-index-js-6f911aeeb133777da8e4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-layouts-index-js-6f911aeeb133777da8e4.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/component---src-layouts-index-js-6f911aeeb133777da8e4.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-f6662393a31fb18d5e07.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/component---src-pages-404-js-f6662393a31fb18d5e07.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-f6662393a31fb18d5e07.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/component---src-pages-404-js-f6662393a31fb18d5e07.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/path----4eb2bf3970159e37c61c.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/path----4eb2bf3970159e37c61c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/path----4eb2bf3970159e37c61c.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/path----4eb2bf3970159e37c61c.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/path---404-a0e39f21c11f6a62c5ab.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---404-a0e39f21c11f6a62c5ab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/path---404-a0e39f21c11f6a62c5ab.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---404-a0e39f21c11f6a62c5ab.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/path---404-html-a0e39f21c11f6a62c5ab.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---404-html-a0e39f21c11f6a62c5ab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/path---404-html-a0e39f21c11f6a62c5ab.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---404-html-a0e39f21c11f6a62c5ab.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/path---index-a0e39f21c11f6a62c5ab.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---index-a0e39f21c11f6a62c5ab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/path---index-a0e39f21c11f6a62c5ab.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---index-a0e39f21c11f6a62c5ab.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/render-page.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/stats.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactLinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WorkExperience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WorkExperience.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +86,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
