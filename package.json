@@ -11,7 +11,7 @@
     "serve": "gatsby serve",
     "prettier": "prettier --write 'src/**/*.js'",
     "predeploy": "npm run build",
-    "deploy": "gatsby build  && gh-pages -d public -b one_day_builds_page"
+    "deploy": "gatsby build  && gh-pages -d public -b master"
   },
   "devDependencies": {
     "anchorate": "1.2.3",
