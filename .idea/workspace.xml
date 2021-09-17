@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="279ddf37-68f6-441c-9562-d05b54d44b4e" name="Default Changelist" comment="" />
+    <list default="true" id="279ddf37-68f6-441c-9562-d05b54d44b4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/redux-state.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux-state.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +44,14 @@
   <component name="GitRewordedCommitMessages">
     <option name="onto" value="c6c5ce33c186b39e1002e0f6b62b060aa59987c5" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -77,7 +87,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.deploy">
+  <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -120,8 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.serve" />
       </list>
