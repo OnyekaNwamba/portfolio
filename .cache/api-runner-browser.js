@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('/Users/onyeka/Documents/me/node_modules/gatsby-plugin-google-analytics/gatsby-browser'),
+      plugin: require('/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-browser'),
       options: {"plugins":[],"trackingId":"UA-94088018-1","anonymize":true,"respectDNT":true},
     },{
-      plugin: require('/Users/onyeka/Documents/me/gatsby-browser'),
+      plugin: require('/Users/onyeka/Documents/portfolio/gatsby-browser'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks

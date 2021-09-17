@@ -12,7 +12,7 @@
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -24,7 +24,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -41,13 +41,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b45fe03f09f14e83da28717b8a08e9cd",
+        "contentDigest": "8dcada1f3efeb1a7a090cea2e114740e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -59,7 +59,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -80,13 +80,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e6c1d8f810fb8ddcdab5b4c7612dd5d3",
+        "contentDigest": "33730f8bfe59d7b33cbf69076a7dba54",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -98,7 +98,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -119,13 +119,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "49ab77ccad315034d24209de7d4a093e",
+        "contentDigest": "b9e4a61b9dafc03125b25b362daf0d74",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -138,7 +138,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -155,13 +155,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5077562bee9609ecbc22ebfbe8510a52",
+        "contentDigest": "ef68d3b04844e81b47befcaba6c95107",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -173,7 +173,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -190,13 +190,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9827acb9c7c8bdd352099cefa243f444",
+        "contentDigest": "eb13dd5c5841df2098d4944a40e89560",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -209,7 +209,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/onyeka/Documents/me/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -226,13 +226,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c0023566909abe6616300c756d3d15c0",
+        "contentDigest": "554630b32dd45295395c453c4c6c1d13",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/onyeka/Documents/me/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "2.0.11",
@@ -244,7 +244,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/onyeka/Documents/me/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -303,13 +303,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "21f1d127114890f35c1071b691596764",
+        "contentDigest": "d62c8fc4a4b42c7dd9d4ff26760a0932",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sass": {
-      "resolve": "/Users/onyeka/Documents/me/node_modules/gatsby-plugin-sass",
+      "resolve": "/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-sass",
       "id": "Plugin gatsby-plugin-sass",
       "name": "gatsby-plugin-sass",
       "version": "1.0.26",
@@ -321,7 +321,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/onyeka/Documents/me/node_modules/gatsby-plugin-sass",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-sass",
       "packageJson": {
         "name": "gatsby-plugin-sass",
         "description": "Gatsby plugin to handle scss/sass files",
@@ -386,13 +386,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "021a99ff16d797aaa6dd808df3d95719",
+        "contentDigest": "af6e227c8615ebb845880b6deabf8245",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-google-analytics": {
-      "resolve": "/Users/onyeka/Documents/me/node_modules/gatsby-plugin-google-analytics",
+      "resolve": "/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-google-analytics",
       "id": "Plugin gatsby-plugin-google-analytics",
       "name": "gatsby-plugin-google-analytics",
       "version": "1.0.31",
@@ -409,7 +409,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/onyeka/Documents/me/node_modules/gatsby-plugin-google-analytics",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-google-analytics",
       "packageJson": {
         "name": "gatsby-plugin-google-analytics",
         "description": "Gatsby plugin to add google analytics onto a site",
@@ -453,13 +453,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a1fc01832e20f880be85f0f08260d791",
+        "contentDigest": "6f7133b928392bd384f39c78a5a3ce00",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-favicon": {
-      "resolve": "/Users/onyeka/Documents/me/node_modules/gatsby-plugin-favicon",
+      "resolve": "/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-favicon",
       "id": "Plugin gatsby-plugin-favicon",
       "name": "gatsby-plugin-favicon",
       "version": "2.1.1",
@@ -486,7 +486,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/onyeka/Documents/me/node_modules/gatsby-plugin-favicon",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-favicon",
       "packageJson": {
         "name": "gatsby-plugin-favicon",
         "description": "Gatsby plugin to add favicon for all configurations",
@@ -540,13 +540,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3dfc4c087b92c0686d2fa6dd9eb3a44e",
+        "contentDigest": "e95c1df88ed45b44dfe97f0c41eac884",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/onyeka/Documents/me",
+      "resolve": "/Users/onyeka/Documents/portfolio",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "915c1cd68ceafd1020c67b3c17cb75b6",
@@ -560,7 +560,7 @@
         "onRouteUpdate"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/onyeka/Documents/me",
+      "pluginFilepath": "/Users/onyeka/Documents/portfolio",
       "packageJson": {
         "name": "me",
         "description": "Onyeka's Portfolio",
@@ -599,6 +599,10 @@
           {
             "name": "react-table",
             "version": "^6.10.3"
+          },
+          {
+            "name": "sass",
+            "version": "^1.41.1"
           }
         ],
         "devDependencies": [
@@ -636,7 +640,7 @@
           },
           {
             "name": "gatsby-plugin-sass",
-            "version": "1.0.26"
+            "version": "^1.0.26"
           },
           {
             "name": "gh-pages",
@@ -658,7 +662,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "01dee255e4af946e445f8ef3297d955d",
+        "contentDigest": "52d36efc4dab39305352a81eaf176838",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -669,12 +673,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2020-07-25T22:53:20.651Z",
+      "buildTime": "2021-09-17T18:27:25.355Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b7ec501b9d721a007dedfd284335321d",
+        "contentDigest": "0074d9a492313e2dbb12a2aca19b28ef",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -684,18 +688,18 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/onyeka/Documents/me/src/pages/404.js",
+      "component": "/Users/onyeka/Documents/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/onyeka/Documents/me/src/pages/404.js",
+      "componentPath": "/Users/onyeka/Documents/portfolio/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "222a9651995b892909a7b9b462af566e",
+        "contentDigest": "507aaa10c81cdc492bc54766a0b8f561",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -705,18 +709,18 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/onyeka/Documents/me/src/pages/index.js",
+      "component": "/Users/onyeka/Documents/portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/onyeka/Documents/me/src/pages/index.js",
+      "componentPath": "/Users/onyeka/Documents/portfolio/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "84146ed8a76f5726c762dda606769b46",
+        "contentDigest": "2d2a181f842eca77ea4edea73a48558a",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -726,18 +730,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/onyeka/Documents/me/src/pages/404.js",
+      "component": "/Users/onyeka/Documents/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/onyeka/Documents/me/src/pages/404.js",
+      "componentPath": "/Users/onyeka/Documents/portfolio/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0cc9bbfd67acf16e1cbfe11362772665",
+        "contentDigest": "fe01596da15baa5efe06adce2e993283",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -745,7 +749,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "567ca22c17aa8e35e699e9be2b2bc29d"
+    "PLUGINS_HASH": "4b34231e3d0b162b68add9ae6a5fd7d0"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -753,10 +757,6 @@
         "LAYOUT___index"
       ]
     },
-    "connections": {
-      "SitePage": [
-        "/dev-404-page/"
-      ]
-    }
+    "connections": {}
   }
 }

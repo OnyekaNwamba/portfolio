@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/Users/onyeka/Documents/me/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/onyeka/Documents/me/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-94088018-1","anonymize":true,"respectDNT":true},
     },{
-      plugin: require('/Users/onyeka/Documents/me/node_modules/gatsby-plugin-favicon/gatsby-ssr'),
+      plugin: require('/Users/onyeka/Documents/portfolio/node_modules/gatsby-plugin-favicon/gatsby-ssr'),
       options: {"plugins":[],"logo":"./src/images/favicon.png","injectHTML":true,"icons":{"android":true,"appleIcon":true,"appleStartup":true,"coast":false,"favicons":true,"firefox":true,"twitter":false,"yandex":false,"windows":false}},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
