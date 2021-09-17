@@ -17,7 +17,7 @@ class WorkExperience extends React.PureComponent {
 
                         <div className="gocode">
                             <a target="_blank" href="http://amazon.co.uk"><img className="icon" src="https://media-exp1.licdn.com/dms/image/C560BAQFdwVGpSOHmgw/company-logo_200_200/0?e=2159024400&v=beta&t=r6Y4R9o8Br9jZ7CY3Jaz58I8WbObB7nqpFWil-cqxGs"/></a><b>Amazon</b>
-                            <span className="right"><i>June 2020 - Current</i></span><br/><b>Software Development Engineer Placement</b>
+                            <span className="right"><i>June 2020 - August 2021</i></span><br/><b>Software Development Engineer Placement</b>
                             <span className="right"><i>London, UK</i></span><br/><br/>
                             <ul>
                                 <span>Responsibilities:</span><br />
@@ -68,23 +68,6 @@ class WorkExperience extends React.PureComponent {
                                 <li>Later promoted to Program Leader, where I was tasked to code programming projects for students to learn from</li>
                             </ul>
                         </div>
-
-
-                        {/*
-                        <div className="gocode">
-                            <a target="_blank" href="http://qmsu.org"><img className="icon" src="https://pbs.twimg.com/profile_images/1148172677288513538/6NZLvPhn_400x400.jpg"/></a><b>Queen Mary Student Union</b>
-                            <span className="right"><i>September 2018 - June 2018</i></span><br/><b>Full-Stack Developer Intern</b>
-                            <span className="right"><i>London, UK</i></span><br/><br/>
-                            <ul>
-                                <span>Responsibilities:</span><br />
-                                <li>Tutoring children between 8 - 18 basic computer science theory and programming languages such as Python,
-                                    HTML, CSS, Scratch and JavaScript</li>
-                                <li>Object-Oriented Programming</li>
-                                <li>Creating resources for students to learn</li>
-                                <li>Leading lessons as one of the leading teachers</li>
-                            </ul>
-                        </div>
-                        **/}
                     </div>
                 </div>
             </div>
