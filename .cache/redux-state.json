@@ -673,12 +673,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2021-09-17T18:53:31.804Z",
+      "buildTime": "2021-09-23T23:36:02.252Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f9ca72e313628d8dfdc9f8f2742f4d25",
+        "contentDigest": "74f104e87d927f2b35087bee77932042",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -699,7 +699,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d7ed89bc31641c941672eeecf2d9611e",
+        "contentDigest": "c3fe969a3a863809748803025430ad39",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -720,7 +720,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0dc0fe7230b61c61d5ba4f1fc6d4d795",
+        "contentDigest": "df8b2055f4acd3a91bc8e15945f05740",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -741,7 +741,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ece317091f7a3ac925c1f80b31431d84",
+        "contentDigest": "548d80008be432d9d7f575ad58b999f5",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -749,7 +749,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "3fd0ad37983d1fcd1f53c710bc3c6c01"
+    "PLUGINS_HASH": "766e58f8d01889f96dd2e2e27b8f7333"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -757,6 +757,10 @@
         "LAYOUT___index"
       ]
     },
-    "connections": {}
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
   }
 }
