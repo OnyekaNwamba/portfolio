@@ -562,7 +562,7 @@
       "ssrAPIs": [],
       "pluginFilepath": "/Users/onyeka/Documents/portfolio",
       "packageJson": {
-        "name": "me",
+        "name": "portfolio",
         "description": "Onyeka's Portfolio",
         "version": "1.0.0",
         "author": "Onyeka Nwamba",
@@ -673,12 +673,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2021-09-23T23:36:02.252Z",
+      "buildTime": "2021-09-24T00:18:44.687Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "74f104e87d927f2b35087bee77932042",
+        "contentDigest": "211492fc4ba189dbabd9e889c3f3c8a9",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -699,7 +699,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c3fe969a3a863809748803025430ad39",
+        "contentDigest": "e5e4ff3625c8f4f47ec1a343ef0f748b",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -720,7 +720,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "df8b2055f4acd3a91bc8e15945f05740",
+        "contentDigest": "98db0c2cf0e44a6caec95e34f871e700",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -741,7 +741,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "548d80008be432d9d7f575ad58b999f5",
+        "contentDigest": "20347b2982ec6bb62a09d621a7dd9b2a",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -749,7 +749,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "766e58f8d01889f96dd2e2e27b8f7333"
+    "PLUGINS_HASH": "03206b6f604b7d6435095b4a0b45ad31"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -757,10 +757,6 @@
         "LAYOUT___index"
       ]
     },
-    "connections": {
-      "SitePage": [
-        "/dev-404-page/"
-      ]
-    }
+    "connections": {}
   }
 }
