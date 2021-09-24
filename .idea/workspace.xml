@@ -1,61 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="279ddf37-68f6-441c-9562-d05b54d44b4e" name="Default Changelist" comment="">
+    <list default="true" id="bde3f50a-e6e4-4767-9889-2bba68bc92fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/redux-state.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux-state.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/chunk-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/chunk-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-layouts-index-js-7e1abd6ba54f53fc46a4.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/component---src-layouts-index-js-7e1abd6ba54f53fc46a4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-layouts-index-js-7e1abd6ba54f53fc46a4.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/component---src-layouts-index-js-7e1abd6ba54f53fc46a4.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/path----4eb2bf3970159e37c61c.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/path----4eb2bf3970159e37c61c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/path----4eb2bf3970159e37c61c.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/path----4eb2bf3970159e37c61c.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/path---404-a0e39f21c11f6a62c5ab.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---404-a0e39f21c11f6a62c5ab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/path---404-a0e39f21c11f6a62c5ab.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---404-a0e39f21c11f6a62c5ab.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/path---404-html-a0e39f21c11f6a62c5ab.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---404-html-a0e39f21c11f6a62c5ab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/path---404-html-a0e39f21c11f6a62c5ab.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---404-html-a0e39f21c11f6a62c5ab.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/path---index-a0e39f21c11f6a62c5ab.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---index-a0e39f21c11f6a62c5ab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/path---index-a0e39f21c11f6a62c5ab.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/path---index-a0e39f21c11f6a62c5ab.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/stats.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/projects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Justin</find>
-      <find>justinchi</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>Onyeka</replace>
-      <replace>onyekanwamba</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitRewordedCommitMessages">
-    <option name="onto" value="c6c5ce33c186b39e1002e0f6b62b060aa59987c5" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1VtehzBljcdE52ys3j8GBXlUUOa" />
+  <component name="ProjectId" id="1yYz3Gsi3wIW5dCeRpWtfbKnx9P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,30 +56,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571075810318" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio stuff" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/static" />
-      <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$/src/content" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/content" />
-      <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager" selected="npm.deploy">
@@ -109,6 +83,16 @@
       <command value="run" />
       <scripts>
         <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="predeploy" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -137,6 +121,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.predeploy" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.serve" />
@@ -144,32 +129,16 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="279ddf37-68f6-441c-9562-d05b54d44b4e" name="Default Changelist" comment="" />
-      <created>1567675752639</created>
+      <changelist id="bde3f50a-e6e4-4767-9889-2bba68bc92fc" name="Changes" comment="" />
+      <created>1632443108658</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567675752639</updated>
-      <workItem from="1567675753968" duration="8687000" />
-      <workItem from="1567721297878" duration="3285000" />
-      <workItem from="1567978713929" duration="2245000" />
-      <workItem from="1568229234754" duration="17020000" />
-      <workItem from="1568625541854" duration="8380000" />
-      <workItem from="1568935840294" duration="1142000" />
-      <workItem from="1569427151682" duration="100000" />
-      <workItem from="1570793930280" duration="844000" />
-      <workItem from="1571057326459" duration="31000" />
-      <workItem from="1571075226215" duration="708000" />
-      <workItem from="1571403165913" duration="243000" />
-      <workItem from="1571673017393" duration="73000" />
-      <workItem from="1578076948810" duration="1344000" />
-      <workItem from="1582463994574" duration="206000" />
-      <workItem from="1589550784686" duration="491000" />
-      <workItem from="1632439739132" duration="736000" />
+      <updated>1632443108658</updated>
+      <workItem from="1632443111434" duration="408000" />
+      <workItem from="1632443526401" duration="1445000" />
+      <workItem from="1632485105348" duration="936000" />
     </task>
     <servers />
   </component>
@@ -187,21 +156,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

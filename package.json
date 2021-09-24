@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "http://onyekanwamba.tech",
+  "homepage": "https://onyekanwamba.github.io/portfolio/",
   "description": "Onyeka's Portfolio",
   "version": "1.0.0",
   "author": "Onyeka Nwamba",
@@ -11,7 +11,7 @@
     "serve": "gatsby serve",
     "prettier": "prettier --write 'src/**/*.js'",
     "predeploy": "npm run build",
-    "deploy": "gatsby build  && gh-pages -d public -b master"
+    "deploy": "gatsby build  && gh-pages -d public -b gh-pages"
   },
   "devDependencies": {
     "anchorate": "1.2.3",
@@ -25,6 +25,7 @@
     "gatsby-plugin-sass": "^1.0.26",
     "gh-pages": "^2.1.1",
     "prettier": "1.13.4",
+    "react": "^17.0.2",
     "react-helmet": "5.2.0"
   },
   "dependencies": {

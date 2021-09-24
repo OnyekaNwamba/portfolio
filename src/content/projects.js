@@ -1,8 +1,8 @@
 import travlr from 'images/travlr.jpg';
 import snake from 'images/snake.png';
 import portfolio from 'images/portfolio.png';
-import Stormy from 'images/Stormy.png';
-import pong from 'images/pong.png';
+import Stormy from 'images/stormy.png';
+import pong from 'images/pong.png'
 
 // image can be any size. just make sure it is close to a 1:1 ratio - a square.
 

@@ -651,6 +651,10 @@
             "version": "1.13.4"
           },
           {
+            "name": "react",
+            "version": "^17.0.2"
+          },
+          {
             "name": "react-helmet",
             "version": "5.2.0"
           }
@@ -673,12 +677,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2021-09-24T00:21:05.237Z",
+      "buildTime": "2021-09-24T12:23:47.301Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ef2e675c1ab948276e9d8271acf0fcf4",
+        "contentDigest": "143b1b9bdd4c17e2ebd35bcf8be56c88",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -699,7 +703,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "45b5f9f5e828c1bcdb4b84cfb9377df2",
+        "contentDigest": "06aa99ef3beaaa35df49809c49492715",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -720,7 +724,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8224995c9387767f43cc3e74d9d61eb0",
+        "contentDigest": "7a1a28b376900144b47f87437262643e",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -741,7 +745,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8dbbd47524b81affd2bc7d32d329b920",
+        "contentDigest": "dc92355dc1359c5242a39185de86e53f",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -749,7 +753,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "03206b6f604b7d6435095b4a0b45ad31"
+    "PLUGINS_HASH": "435531a8df30bad6d26161588b6eea3f"
   },
   "componentDataDependencies": {
     "nodes": {
